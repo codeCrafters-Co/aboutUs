@@ -7,7 +7,7 @@
 <br />
 <br />
 <hr />
-## 1_First we just take a peek to the Technologies what we're dealing with 🖥️🖥️ ,
+take a peek to the Technologies what we're dealing with 🖥️🖥️ ,
 <br />
 #These are as follows:
 <br />
@@ -69,3 +69,7 @@
   MongoDb
   <br />
 <hr />
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KiyarashJ&layout=pie)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+![Stats](https://github-readme-stats.vercel.app/api?username=codeCrafters&show_icons=true&theme=dark)
