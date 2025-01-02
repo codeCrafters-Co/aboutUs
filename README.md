@@ -1,6 +1,6 @@
 # AboutUs 
 
-<hr style="color: red"/>
+<br />
 
 ### this `ReadMe` tells you about anything about `US`.
 
