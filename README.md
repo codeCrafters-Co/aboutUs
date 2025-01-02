@@ -10,24 +10,22 @@
 ## 1_First we just take a peek to the Technologies what we're dealing with 🖥️🖥️ ,
 #These are as follows:
 <br />
-1. ![git](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)
-2. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="git" width="64" height="64"/>
-3. ![github](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)
-4. ![vsCode](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)
-5. ![postman](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png)
-6. ![HTML](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png)
-7. ![CSS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png)
-8. ![TailwindCSS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png)
-9. ![Javascript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png)
-10. ![React](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png)
-11. ![Typescript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png)
-12. ![npm](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png)
-13. ![NodeJs](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png)
-14. ![ExpressJs](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png)
-15. ![NestJs](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png)
-16. ![NextJs](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png)
-17. ![BunJs](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png)
-18. ![Vite](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png)
-19. ![postgersql](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png)
-18. ![mongodb](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png)
-
+1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="git" width="64" height="64"/>
+2. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="github" width="64" height="64"/>
+3. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="visual_studio_code" width="64" height="64"/>
+4. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="postman" width="64" height="64"/>
+5. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="html" width="64" height="64"/>
+6. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="css" width="64" height="64"/>
+7. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="tailwind_css" width="64" height="64"/>
+8. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="javascript" width="64" height="64"/>
+9. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="react" width="64" height="64"/>
+10. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="typescript" width="64" height="64"/>
+11. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" width="64" height="64"/>
+12. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="node_js" width="64" height="64"/>
+13. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="express" width="64" height="64"/>
+13. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" alt="nest_js" width="64" height="64"/>
+14. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="next_js" width="64" height="64"/>
+15. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" alt="bun_js" width="64" height="64"/>
+16. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="vite" width="64" height="64"/>
+17. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="postgresql" width="64" height="64"/>
+18. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongodb" width="64" height="64"/>
