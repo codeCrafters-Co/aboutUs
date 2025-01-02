@@ -10,7 +10,7 @@
 ## 1_First we just take a peek to the Technologies what we're dealing with 🖥️🖥️ ,
 #These are as follows:
 <br />
-1. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="git" width="64" height="64"/>
+1.<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="git" width="64" height="64"/>
 2. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="github" width="64" height="64"/>
 3. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="visual_studio_code" width="64" height="64"/>
 4. <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="postman" width="64" height="64"/>
